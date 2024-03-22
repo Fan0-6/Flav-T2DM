@@ -1,4 +1,4 @@
-# T2DMFlavonoidClinicalInsight: Efficacy of Dietary Flavonoids in T2DM Biomarker Management
+# T2DM_Flavonoid_Clinical_Insight: Efficacy of Dietary Flavonoids in T2DM Biomarker Management
 
 Welcome to the T2DMFlavonoidClinicalInsight GitHub repository! Our mission is to explore the impact of dietary flavonoids on managing key biomarkers for Type 2 Diabetes Mellitus (T2DM). This project is the culmination of extensive research compiling and analyzing data from 28 randomized controlled trials. Our focus lies on evaluating how flavonoid consumption affects fasting glucose, HbA1c, insulin resistance, and lipid metabolism in T2DM patients.
 
